@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: LINGESWARAN K N</h3>
+<h3>Name: LINGESWARAN K </h3>
 <h3>Register Number/Staff Id: 212222110022</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
